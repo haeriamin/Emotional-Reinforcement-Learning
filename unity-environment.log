@@ -1,0 +1,18 @@
+2019-04-28 2:26:57 AM
+ 
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+HideChaser.Reset () (at <6eb3fe6d9444468cbeca9b319b8a4b95>:0)
+HideAgent.AgentReset () (at <6eb3fe6d9444468cbeca9b319b8a4b95>:0)
+HideWinZone.OnTriggerEnter (UnityEngine.Collider other) (at <6eb3fe6d9444468cbeca9b319b8a4b95>:0)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+HideChaser.Reset () (at <6eb3fe6d9444468cbeca9b319b8a4b95>:0)
+HideAgent.AgentReset () (at <6eb3fe6d9444468cbeca9b319b8a4b95>:0)
+Agent.Reset () (at <6eb3fe6d9444468cbeca9b319b8a4b95>:0)
+Brain.ResetIfDone () (at <6eb3fe6d9444468cbeca9b319b8a4b95>:0)
+Academy.Step () (at <6eb3fe6d9444468cbeca9b319b8a4b95>:0)
+Academy.RunMdp () (at <6eb3fe6d9444468cbeca9b319b8a4b95>:0)
+Academy.FixedUpdate () (at <6eb3fe6d9444468cbeca9b319b8a4b95>:0)
+

@@ -1,0 +1,12 @@
+README.md
+setup.py
+unityagents/__init__.py
+unityagents/brain.py
+unityagents/curriculum.py
+unityagents/environment.py
+unityagents/exception.py
+unityagents.egg-info/PKG-INFO
+unityagents.egg-info/SOURCES.txt
+unityagents.egg-info/dependency_links.txt
+unityagents.egg-info/requires.txt
+unityagents.egg-info/top_level.txt
