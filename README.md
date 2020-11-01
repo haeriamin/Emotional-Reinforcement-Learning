@@ -1,4 +1,4 @@
-# <img src="https://github.com/haeriamin/files/blob/master/erl1.gif">
+# <img src="https://github.com/haeriamin/files/blob/master/erl1.gif" alt="drawing" width="800">
 
 # Emotional RL using Unity ML-Agents and TensorFlow
 
